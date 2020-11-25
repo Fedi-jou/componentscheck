@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6043ed42.chunk.css",
+    "main.js": "/static/js/main.5cfc0fd8.chunk.js",
+    "main.js.map": "/static/js/main.5cfc0fd8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94ac80fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94ac80fd.js.map",
+    "static/js/2.e00cd4e4.chunk.js": "/static/js/2.e00cd4e4.chunk.js",
+    "static/js/2.e00cd4e4.chunk.js.map": "/static/js/2.e00cd4e4.chunk.js.map",
+    "static/js/3.5f372e80.chunk.js": "/static/js/3.5f372e80.chunk.js",
+    "static/js/3.5f372e80.chunk.js.map": "/static/js/3.5f372e80.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6043ed42.chunk.css.map": "/static/css/main.6043ed42.chunk.css.map",
+    "static/js/2.e00cd4e4.chunk.js.LICENSE.txt": "/static/js/2.e00cd4e4.chunk.js.LICENSE.txt",
+    "static/media/fedi_img.c0b8b446.jpeg": "/static/media/fedi_img.c0b8b446.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94ac80fd.js",
+    "static/js/2.e00cd4e4.chunk.js",
+    "static/css/main.6043ed42.chunk.css",
+    "static/js/main.5cfc0fd8.chunk.js"
+  ]
+}
